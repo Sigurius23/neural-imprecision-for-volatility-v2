@@ -1,6 +1,6 @@
 <h1> The virtues of computational learning noise in volatile environments </h1>
 
-This project reproduces the biologically plausible **forward varying-volatility** agent and the **Weber-imprecision** agent from Findling et al. (2021) paper titled *'Imprecise neural computations as a source of adaptive behaviour in volatile environments'* for the seminar: Models of Learning and Decision Making in Changing Environments (WiSe 2025/26) at the University of Osnabrück. It comprises three sections: 
+This project reproduces the biologically plausible **forward varying-volatility** agent and the **Weber-imprecision** agent from Findling et al.'s (2021) paper titled *'Imprecise neural computations as a source of adaptive behaviour in volatile environments'* for the seminar: Models of Learning and Decision Making in Changing Environments (WiSe 2025/26) at the University of Osnabrück. It comprises three sections: 
 
 1. a playground to first build some intuitions 
 2. the codebase for building and running the two-armed bandit experiment from the paper 
