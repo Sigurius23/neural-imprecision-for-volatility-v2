@@ -1,0 +1,6 @@
+participant_id,n_trials,direct_switches,reconstructed_switches,task_beta,task_traps
+25da8b12-9a43-40cd-84f2-5b152a5f0f7f,100,6,6,0.6699999999999999,33
+adaptive_lab_07ee303f,100,8,8,0.81,19
+adaptive_lab_08d9887c,100,3,3,0.71,29
+adaptive_lab_09b45851,100,6,6,0.76,24
+adaptive_lab_1671e99c,100,5,5,0.83,17
